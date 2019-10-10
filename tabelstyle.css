@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("BeFunky-photocb1.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p1 {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+p2{
+  text-align: justify;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.black {
+  font-size: 26px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blue {
+  color: #557A7D;
+}
+
+.yellow {
+  color: #AB953B;
+  font-weight: bold;
+}
+
+.yellow {
+  color: #AB953B;
+  font-weight: bold;
+}
+
+.register {
+  width: 360px;
+  padding: 10% 0 0;
+  margin: auto;
+}
+
+.form {
+  position: relative;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 5px 30px 20px 30px;
+  border-radius: 25px;
+}
+
+.input-container i {
+  position: absolute;
+}
+
+.input-container {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  color: black;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.input-field:focus {
+  border: 2px solid #557A7D;
+}
+
+.checkbox {
+  font-size: 10px;
+  text-align: center;
+}
+
+.button {
+  margin-top: 15px;
+  background-color: #557A7D;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.tabel {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+}

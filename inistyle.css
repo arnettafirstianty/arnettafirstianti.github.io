@@ -1,0 +1,58 @@
+.kotak_form{
+	margin: 250px auto;
+    width: 400px;
+    padding: 10px;
+    background: white;
+	padding: 3% 1%;
+	border-radius: 10px;
+	position: center;
+	background-color: rgba(255,255,255,0.6);
+
+}
+
+body{
+	background-image: url("bg.PNG");
+	background-position: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+.black {
+  font-size: 26px;
+  font-family: "Calibri", Times, serif;
+  font-weight: bold;
+}
+
+.blue {
+  color: #557A7D;
+  font-size: 26px;
+}
+
+.yellow {
+  color: #AB953B;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.button{background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 6px 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+form{
+	border-radius: 26px;
+
+}
+
